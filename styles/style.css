@@ -1,0 +1,28 @@
+
+* {
+  
+  margin: 0;
+  padding: 0;
+  
+}
+
+.banner {
+  background-color: #FCEEF1;
+  height: 500px;
+  width: 2379px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.banner-text{
+
+  color: #272727;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
